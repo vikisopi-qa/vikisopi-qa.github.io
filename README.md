@@ -1,2 +1,2 @@
-# vikisopi-qa.github.io
+# vс
 Сайт визитка HTML и CSS
